@@ -1,6 +1,6 @@
-﻿#include <iostream>
+#include <iostream>
 
-int main() 
+int main()
 {
     std::cout << "popova.darya\n";
     return 0;
